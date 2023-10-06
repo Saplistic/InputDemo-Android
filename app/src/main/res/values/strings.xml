@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InputDemo</string>
+    <string name="email">email</string>
+    <string name="pincode">PIN code</string>
+    <string name="btn_login">Log in</string>
+    <string name="txt_invalid_pin">Invalid PIN Code</string>
+</resources>
